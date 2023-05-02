@@ -1,5 +1,6 @@
 [
   {
+    "recipe_img": "https://images.unsplash.com/photo-1563245372-f21724e3856d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1262&q=80",
     "recipe_name": "Classic Spaghetti Carbonara",
     "ingredients": [
       "Spaghetti",
@@ -13,6 +14,7 @@
     "chef_id": "1"
   },
   {
+    "recipe_img": "https://images.unsplash.com/photo-1503764654157-72d979d9af2f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80",
     "recipe_name": "Grilled Salmon with Avocado Salsa",
     "ingredients": [
       "Salmon fillet",
@@ -26,6 +28,7 @@
     "chef_id": "2"
   },
   {
+    "recipe_img": "https://images.unsplash.com/photo-1615444431961-6d7101107613?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     "recipe_name": "Classic Spaghetti and Meatballs",
     "ingredients": [
       "Ground beef",
@@ -39,6 +42,7 @@
     "chef_id": "3"
   },
   {
+    "recipe_img": "https://images.unsplash.com/photo-1631709497146-a239ef373cf1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     "recipe_name": "Vegan Butternut Squash Soup",
     "ingredients": [
       "Butternut squash",
@@ -52,6 +56,7 @@
     "chef_id": "4"
   },
   {
+    "recipe_img": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
     "recipe_name": "Beef and Broccoli Stir Fry",
     "ingredients": [
       "Flank steak",
@@ -65,6 +70,7 @@
     "chef_id": "5"
   },
   {
+    "recipe_img": "https://images.unsplash.com/photo-1560684352-8497838a2229?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=828&q=80",
     "recipe_name": "Classic Spaghetti Carbonara",
     "ingredients": [
       "Spaghetti",
@@ -78,6 +84,7 @@
     "chef_id": "6"
   },
   {
+    "recipe_img": "https://images.unsplash.com/photo-1568096889942-6eedde686635?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     "recipe_name": "Classic Spaghetti Carbonara",
     "ingredients": [
       "Spaghetti",
@@ -91,6 +98,7 @@
     "chef_id": "6"
   },
   {
+    "recipe_img": "https://images.unsplash.com/photo-1575980967953-d812d957dca5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     "recipe_name": "Grilled Salmon with Avocado Salsa",
     "ingredients": [
       "Salmon fillet",
@@ -104,6 +112,7 @@
     "chef_id": "5"
   },
   {
+    "recipe_img": "https://images.unsplash.com/photo-1525755662778-989d0524087e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
     "recipe_name": "Classic Spaghetti and Meatballs",
     "ingredients": [
       "Ground beef",
@@ -117,6 +126,7 @@
     "chef_id": "1"
   },
   {
+    "recipe_img": "https://images.unsplash.com/photo-1519984388953-d2406bc725e1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80",
     "recipe_name": "Vegan Butternut Squash Soup",
     "ingredients": [
       "Butternut squash",
@@ -130,6 +140,7 @@
     "chef_id": "2"
   },
   {
+    "recipe_img": "https://images.unsplash.com/photo-1563245372-f21724e3856d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1262&q=80",
     "recipe_name": "Beef and Broccoli Stir Fry",
     "ingredients": [
       "Flank steak",
@@ -143,6 +154,7 @@
     "chef_id": "3"
   },
   {
+    "recipe_img": "https://images.unsplash.com/photo-1563245372-f21724e3856d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1262&q=80",
     "recipe_name": "Classic Spaghetti Carbonara",
     "ingredients": [
       "Spaghetti",
@@ -156,6 +168,7 @@
     "chef_id": "4"
   },
   {
+    "recipe_img": "https://images.unsplash.com/photo-1563245372-f21724e3856d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1262&q=80",
     "recipe_name": "Classic Spaghetti Carbonara",
     "ingredients": [
       "Spaghetti",
@@ -169,6 +182,7 @@
     "chef_id": "2"
   },
   {
+    "recipe_img": "https://images.unsplash.com/photo-1563245372-f21724e3856d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1262&q=80",
     "recipe_name": "Grilled Salmon with Avocado Salsa",
     "ingredients": [
       "Salmon fillet",
@@ -182,6 +196,7 @@
     "chef_id": "5"
   },
   {
+    "recipe_img": "https://images.unsplash.com/photo-1563245372-f21724e3856d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1262&q=80",
     "recipe_name": "Classic Spaghetti and Meatballs",
     "ingredients": [
       "Ground beef",
@@ -195,6 +210,7 @@
     "chef_id": "4"
   },
   {
+    "recipe_img": "https://images.unsplash.com/photo-1563245372-f21724e3856d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1262&q=80",
     "recipe_name": "Vegan Butternut Squash Soup",
     "ingredients": [
       "Butternut squash",
@@ -208,6 +224,7 @@
     "chef_id": "6"
   },
   {
+    "recipe_img": "https://images.unsplash.com/photo-1563245372-f21724e3856d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1262&q=80",
     "recipe_name": "Beef and Broccoli Stir Fry",
     "ingredients": [
       "Flank steak",
@@ -221,6 +238,7 @@
     "chef_id": "3"
   },
   {
+    "recipe_img": "https://images.unsplash.com/photo-1542308743-80f875fec614?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     "recipe_name": "Classic Spaghetti Carbonara",
     "ingredients": [
       "Spaghetti",
