@@ -1,0 +1,236 @@
+[
+  {
+    "recipe_name": "Classic Spaghetti Carbonara",
+    "ingredients": [
+      "Spaghetti",
+      "Pancetta",
+      "Egg yolks",
+      "Parmesan cheese",
+      "Black pepper"
+    ],
+    "cooking_method": "1. Cook spaghetti in boiling salted water until al dente. 2. In a separate pan, cook pancetta until crispy. 3. Beat egg yolks and Parmesan cheese in a bowl. 4. Drain spaghetti and add it to the pan with pancetta. 5. Remove from heat and add egg yolk mixture to the pan. 6. Toss until sauce is creamy. 7. Season with black pepper.",
+    "rating": 4.5,
+    "chef_id": "1"
+  },
+  {
+    "recipe_name": "Grilled Salmon with Avocado Salsa",
+    "ingredients": [
+      "Salmon fillet",
+      "Avocado",
+      "Tomato",
+      "Red onion",
+      "Cilantro"
+    ],
+    "cooking_method": "1. Preheat grill to medium-high heat. 2. Season salmon fillet with salt and pepper. 3. Grill salmon for 4-6 minutes per side. 4. Dice avocado, tomato, and red onion. 5. Chop cilantro. 6. Mix together avocado, tomato, red onion, and cilantro. 7. Serve salmon topped with avocado salsa.",
+    "rating": 4.8,
+    "chef_id": "2"
+  },
+  {
+    "recipe_name": "Classic Spaghetti and Meatballs",
+    "ingredients": [
+      "Ground beef",
+      "Spaghetti",
+      "Tomatoes",
+      "Garlic",
+      "Breadcrumbs"
+    ],
+    "cooking_method": "1. Preheat oven to 350°F. 2. Combine ground beef, breadcrumbs, minced garlic, and salt and pepper to taste. 3. Form mixture into meatballs. 4. Heat a large skillet over medium-high heat. 5. Add meatballs to the skillet and brown on all sides. 6. Transfer meatballs to a baking dish and bake in the oven for 15-20 minutes. 7. Meanwhile, cook spaghetti according to package instructions. 8. Heat a large pot over medium heat. 9. Add diced tomatoes and garlic and cook for 5-7 minutes. 10. Serve spaghetti topped with meatballs and tomato sauce.",
+    "rating": 4.5,
+    "chef_id": "3"
+  },
+  {
+    "recipe_name": "Vegan Butternut Squash Soup",
+    "ingredients": [
+      "Butternut squash",
+      "Onion",
+      "Garlic",
+      "Coconut milk",
+      "Vegetable broth"
+    ],
+    "cooking_method": "1. Preheat oven to 375°F. 2. Cut butternut squash into small cubes. 3. Mince onion and garlic. 4. Toss squash with onion, garlic, and olive oil. 5. Roast in oven for 25-30 minutes. 6. Transfer roasted vegetables to a pot. 7. Add coconut milk and vegetable broth. 8. Bring to a boil and then reduce heat to simmer for 10 minutes. 9. Use an immersion blender to blend until smooth. 10. Serve hot.",
+    "rating": 4.7,
+    "chef_id": "4"
+  },
+  {
+    "recipe_name": "Beef and Broccoli Stir Fry",
+    "ingredients": [
+      "Flank steak",
+      "Broccoli",
+      "Soy sauce",
+      "Cornstarch",
+      "Garlic"
+    ],
+    "cooking_method": "1. Cut flank steak into thin slices. 2. Cut broccoli into small florets. 3. Mince garlic. 4. Mix together soy sauce and cornstarch. 5. Heat a wok or large skillet over high heat. 6. Add oil and garlic to the pan. 7. Add sliced beef and stir-fry for 2-3 minutes. 8. Add broccoli to the pan and continue to stir-fry for an additional 2-3 minutes. 9. Add soy sauce mixture to the pan and stir-fry for 1-2 minutes until sauce thickens. 10. Serve hot over rice.",
+    "rating": 4.4,
+    "chef_id": "5"
+  },
+  {
+    "recipe_name": "Classic Spaghetti Carbonara",
+    "ingredients": [
+      "Spaghetti",
+      "Pancetta",
+      "Egg yolks",
+      "Parmesan cheese",
+      "Black pepper"
+    ],
+    "cooking_method": "1. Cook spaghetti in boiling salted water until al dente. 2. In a separate pan, cook pancetta until crispy. 3. Beat egg yolks and Parmesan cheese in a bowl. 4. Drain spaghetti and add it to the pan with pancetta. 5. Remove from heat and add egg yolk mixture to the pan. 6. Toss until sauce is creamy. 7. Season with black pepper.",
+    "rating": 4.5,
+    "chef_id": "6"
+  },
+  {
+    "recipe_name": "Classic Spaghetti Carbonara",
+    "ingredients": [
+      "Spaghetti",
+      "Pancetta",
+      "Egg yolks",
+      "Parmesan cheese",
+      "Black pepper"
+    ],
+    "cooking_method": "1. Cook spaghetti in boiling salted water until al dente. 2. In a separate pan, cook pancetta until crispy. 3. Beat egg yolks and Parmesan cheese in a bowl. 4. Drain spaghetti and add it to the pan with pancetta. 5. Remove from heat and add egg yolk mixture to the pan. 6. Toss until sauce is creamy. 7. Season with black pepper.",
+    "rating": 4.5,
+    "chef_id": "6"
+  },
+  {
+    "recipe_name": "Grilled Salmon with Avocado Salsa",
+    "ingredients": [
+      "Salmon fillet",
+      "Avocado",
+      "Tomato",
+      "Red onion",
+      "Cilantro"
+    ],
+    "cooking_method": "1. Preheat grill to medium-high heat. 2. Season salmon fillet with salt and pepper. 3. Grill salmon for 4-6 minutes per side. 4. Dice avocado, tomato, and red onion. 5. Chop cilantro. 6. Mix together avocado, tomato, red onion, and cilantro. 7. Serve salmon topped with avocado salsa.",
+    "rating": 4.8,
+    "chef_id": "5"
+  },
+  {
+    "recipe_name": "Classic Spaghetti and Meatballs",
+    "ingredients": [
+      "Ground beef",
+      "Spaghetti",
+      "Tomatoes",
+      "Garlic",
+      "Breadcrumbs"
+    ],
+    "cooking_method": "1. Preheat oven to 350°F. 2. Combine ground beef, breadcrumbs, minced garlic, and salt and pepper to taste. 3. Form mixture into meatballs. 4. Heat a large skillet over medium-high heat. 5. Add meatballs to the skillet and brown on all sides. 6. Transfer meatballs to a baking dish and bake in the oven for 15-20 minutes. 7. Meanwhile, cook spaghetti according to package instructions. 8. Heat a large pot over medium heat. 9. Add diced tomatoes and garlic and cook for 5-7 minutes. 10. Serve spaghetti topped with meatballs and tomato sauce.",
+    "rating": 4.5,
+    "chef_id": "1"
+  },
+  {
+    "recipe_name": "Vegan Butternut Squash Soup",
+    "ingredients": [
+      "Butternut squash",
+      "Onion",
+      "Garlic",
+      "Coconut milk",
+      "Vegetable broth"
+    ],
+    "cooking_method": "1. Preheat oven to 375°F. 2. Cut butternut squash into small cubes. 3. Mince onion and garlic. 4. Toss squash with onion, garlic, and olive oil. 5. Roast in oven for 25-30 minutes. 6. Transfer roasted vegetables to a pot. 7. Add coconut milk and vegetable broth. 8. Bring to a boil and then reduce heat to simmer for 10 minutes. 9. Use an immersion blender to blend until smooth. 10. Serve hot.",
+    "rating": 4.7,
+    "chef_id": "2"
+  },
+  {
+    "recipe_name": "Beef and Broccoli Stir Fry",
+    "ingredients": [
+      "Flank steak",
+      "Broccoli",
+      "Soy sauce",
+      "Cornstarch",
+      "Garlic"
+    ],
+    "cooking_method": "1. Cut flank steak into thin slices. 2. Cut broccoli into small florets. 3. Mince garlic. 4. Mix together soy sauce and cornstarch. 5. Heat a wok or large skillet over high heat. 6. Add oil and garlic to the pan. 7. Add sliced beef and stir-fry for 2-3 minutes. 8. Add broccoli to the pan and continue to stir-fry for an additional 2-3 minutes. 9. Add soy sauce mixture to the pan and stir-fry for 1-2 minutes until sauce thickens. 10. Serve hot over rice.",
+    "rating": 4.4,
+    "chef_id": "3"
+  },
+  {
+    "recipe_name": "Classic Spaghetti Carbonara",
+    "ingredients": [
+      "Spaghetti",
+      "Pancetta",
+      "Egg yolks",
+      "Parmesan cheese",
+      "Black pepper"
+    ],
+    "cooking_method": "1. Cook spaghetti in boiling salted water until al dente. 2. In a separate pan, cook pancetta until crispy. 3. Beat egg yolks and Parmesan cheese in a bowl. 4. Drain spaghetti and add it to the pan with pancetta. 5. Remove from heat and add egg yolk mixture to the pan. 6. Toss until sauce is creamy. 7. Season with black pepper.",
+    "rating": 4.5,
+    "chef_id": "4"
+  },
+  {
+    "recipe_name": "Classic Spaghetti Carbonara",
+    "ingredients": [
+      "Spaghetti",
+      "Pancetta",
+      "Egg yolks",
+      "Parmesan cheese",
+      "Black pepper"
+    ],
+    "cooking_method": "1. Cook spaghetti in boiling salted water until al dente. 2. In a separate pan, cook pancetta until crispy. 3. Beat egg yolks and Parmesan cheese in a bowl. 4. Drain spaghetti and add it to the pan with pancetta. 5. Remove from heat and add egg yolk mixture to the pan. 6. Toss until sauce is creamy. 7. Season with black pepper.",
+    "rating": 4.5,
+    "chef_id": "2"
+  },
+  {
+    "recipe_name": "Grilled Salmon with Avocado Salsa",
+    "ingredients": [
+      "Salmon fillet",
+      "Avocado",
+      "Tomato",
+      "Red onion",
+      "Cilantro"
+    ],
+    "cooking_method": "1. Preheat grill to medium-high heat. 2. Season salmon fillet with salt and pepper. 3. Grill salmon for 4-6 minutes per side. 4. Dice avocado, tomato, and red onion. 5. Chop cilantro. 6. Mix together avocado, tomato, red onion, and cilantro. 7. Serve salmon topped with avocado salsa.",
+    "rating": 4.8,
+    "chef_id": "5"
+  },
+  {
+    "recipe_name": "Classic Spaghetti and Meatballs",
+    "ingredients": [
+      "Ground beef",
+      "Spaghetti",
+      "Tomatoes",
+      "Garlic",
+      "Breadcrumbs"
+    ],
+    "cooking_method": "1. Preheat oven to 350°F. 2. Combine ground beef, breadcrumbs, minced garlic, and salt and pepper to taste. 3. Form mixture into meatballs. 4. Heat a large skillet over medium-high heat. 5. Add meatballs to the skillet and brown on all sides. 6. Transfer meatballs to a baking dish and bake in the oven for 15-20 minutes. 7. Meanwhile, cook spaghetti according to package instructions. 8. Heat a large pot over medium heat. 9. Add diced tomatoes and garlic and cook for 5-7 minutes. 10. Serve spaghetti topped with meatballs and tomato sauce.",
+    "rating": 4.5,
+    "chef_id": "4"
+  },
+  {
+    "recipe_name": "Vegan Butternut Squash Soup",
+    "ingredients": [
+      "Butternut squash",
+      "Onion",
+      "Garlic",
+      "Coconut milk",
+      "Vegetable broth"
+    ],
+    "cooking_method": "1. Preheat oven to 375°F. 2. Cut butternut squash into small cubes. 3. Mince onion and garlic. 4. Toss squash with onion, garlic, and olive oil. 5. Roast in oven for 25-30 minutes. 6. Transfer roasted vegetables to a pot. 7. Add coconut milk and vegetable broth. 8. Bring to a boil and then reduce heat to simmer for 10 minutes. 9. Use an immersion blender to blend until smooth. 10. Serve hot.",
+    "rating": 4.7,
+    "chef_id": "6"
+  },
+  {
+    "recipe_name": "Beef and Broccoli Stir Fry",
+    "ingredients": [
+      "Flank steak",
+      "Broccoli",
+      "Soy sauce",
+      "Cornstarch",
+      "Garlic"
+    ],
+    "cooking_method": "1. Cut flank steak into thin slices. 2. Cut broccoli into small florets. 3. Mince garlic. 4. Mix together soy sauce and cornstarch. 5. Heat a wok or large skillet over high heat. 6. Add oil and garlic to the pan. 7. Add sliced beef and stir-fry for 2-3 minutes. 8. Add broccoli to the pan and continue to stir-fry for an additional 2-3 minutes. 9. Add soy sauce mixture to the pan and stir-fry for 1-2 minutes until sauce thickens. 10. Serve hot over rice.",
+    "rating": 4.4,
+    "chef_id": "3"
+  },
+  {
+    "recipe_name": "Classic Spaghetti Carbonara",
+    "ingredients": [
+      "Spaghetti",
+      "Pancetta",
+      "Egg yolks",
+      "Parmesan cheese",
+      "Black pepper"
+    ],
+    "cooking_method": "1. Cook spaghetti in boiling salted water until al dente. 2. In a separate pan, cook pancetta until crispy. 3. Beat egg yolks and Parmesan cheese in a bowl. 4. Drain spaghetti and add it to the pan with pancetta. 5. Remove from heat and add egg yolk mixture to the pan. 6. Toss until sauce is creamy. 7. Season with black pepper.",
+    "rating": 4.5,
+    "chef_id": "1"
+  }
+]

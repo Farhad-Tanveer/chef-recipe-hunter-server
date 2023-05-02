@@ -2,49 +2,55 @@
   {
     "id": "1",
     "chef_picture": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80",
-    "chef_name": "Jane Smith",
+    "chef_name": "Zhang Xiaoli",
+    "chef_details": "Cooking is all about people. Food is maybe the only universal thing that really has the power to bring everyone together. No matter what culture, everywhere around the world, people get together to eat.",
     "years_of_experience": 15,
     "num_of_recipes": 3,
-    "likes": 5000
+    "likes": 50
   },
   {
     "id": "2",
-    "chef_picture": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80",
-    "chef_name": "David Lee",
+    "chef_picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+    "chef_name": "Li Wei",
+    "chef_details": "Cooking is all about people. Food is maybe the only universal thing that really has the power to bring everyone together. No matter what culture, everywhere around the world, people get together to eat.",
     "years_of_experience": 8,
     "num_of_recipes": 3,
-    "likes": 12000
+    "likes": 12
   },
   {
     "id": "3",
     "chef_picture": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80",
-    "chef_name": "Maria Rodriguez",
+    "chef_name": "Wang Jie",
+    "chef_details": "Cooking is all about people. Food is maybe the only universal thing that really has the power to bring everyone together. No matter what culture, everywhere around the world, people get together to eat.",
     "years_of_experience": 20,
     "num_of_recipes": 3,
-    "likes": 8000
+    "likes": 80
   },
   {
     "id": "4",
-    "chef_picture": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80",
-    "chef_name": "Tom Johnson",
+    "chef_picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+    "chef_name": "Chen Xiaoming",
+    "chef_details": "Cooking is all about people. Food is maybe the only universal thing that really has the power to bring everyone together. No matter what culture, everywhere around the world, people get together to eat.",
     "years_of_experience": 12,
     "num_of_recipes": 3,
-    "likes": 15000
+    "likes": 15
   },
   {
     "id": "5",
     "chef_picture": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80",
     "chef_name": "Sarah Lee",
+    "chef_details": "Cooking is all about people. Food is maybe the only universal thing that really has the power to bring everyone together. No matter what culture, everywhere around the world, people get together to eat.",
     "years_of_experience": 5,
     "num_of_recipes": 3,
-    "likes": 2500
+    "likes": 25
   },
   {
     "id": "6",
-    "chef_picture": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80",
-    "chef_name": "Alex Nguyen",
+    "chef_picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+    "chef_name": "Liu Wei",
+    "chef_details": "Cooking is all about people. Food is maybe the only universal thing that really has the power to bring everyone together. No matter what culture, everywhere around the world, people get together to eat.",
     "years_of_experience": 3,
     "num_of_recipes": 3,
-    "likes": 500
+    "likes": 50
   }
 ]
